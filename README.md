@@ -1,3 +1,6 @@
+# Prerequisties
+1. install [esy](https://esy.sh/)
+
 # Steps
 1. `git clone git@github.com:shubhamkumar13/ocaml-starter-template.git`
 2. `cd <path-to>/ocaml-starter-template`
