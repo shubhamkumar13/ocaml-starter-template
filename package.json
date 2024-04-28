@@ -1,0 +1,7 @@
+{
+    "dependencies" : {
+        "ocaml" : "5.x.x",
+        "@opam/dune" : "*",
+        "@opam/dream" : "*"
+    }
+}

@@ -1,0 +1,4 @@
+(executable
+ (name main)
+ (public_name ocaml_meetup_1)
+ (libraries dream))
