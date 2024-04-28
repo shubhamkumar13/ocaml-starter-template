@@ -1,6 +1,6 @@
 [@@@warning "-27"]
 
-let get_name req = Dream.html @@ "Good morning, " ^ (Dream.param req "word")
+let get_name req = Dream.html @@ "Good morning, " ^ (Dream.param req "word") ^ "!"
 let default req = Dream.html @@ "Good morning, world!"
 
 let () =
